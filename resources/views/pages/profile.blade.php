@@ -79,7 +79,7 @@
                             <h5 class="card-title">Sepatu New Balance</h5>
                             <p class="card-text">Tersedia ukuran 36, 37, 38 dan 39</p>
                             <p class="card-text"><strong>Rp. 300.000</strong></p>
-                            <a href="#" class="btn btn-primary">Buy Now</a>
+                            <a href="#" class="btn btn-primary">Beli</a>
                             <a href="#" class="btn btn-dark" style="margin-left: 5px;">
                             <i class="fas fa-shopping-cart"></i>
                             </a>
@@ -94,7 +94,7 @@
                             <h5 class="card-title">Sepatu Rebook</h5>
                             <p class="card-text">Tersedia ukuran 36, 37, 38 dan 39</p>
                             <p class="card-text"><strong>Rp. 200.000</strong></p>
-                            <a href="#" class="btn btn-primary">Buy Now</a>
+                            <a href="#" class="btn btn-primary">Beli</a>
                             <a href="#" class="btn btn-dark" style="margin-left: 5px;">
                             <i class="fas fa-shopping-cart"></i>
                             </a>
@@ -109,7 +109,7 @@
                             <h5 class="card-title">Sepatu Nike</h5>
                             <p class="card-text">Tersedia ukuran 36, 37, 38 dan 39</p>
                             <p class="card-text"><strong>Rp. 350.000</strong></p>
-                            <a href="#" class="btn btn-primary">Buy Now</a>
+                            <a href="#" class="btn btn-primary">Beli</a>
                             <a href="#" class="btn btn-dark" style="margin-left: 5px;">
                             <i class="fas fa-shopping-cart"></i>
                             </a>
@@ -124,7 +124,7 @@
                             <h5 class="card-title">Kalung mas</h5>
                             <p class="card-text">Tersedia ukuran 35, 40 dan 45</p>
                             <p class="card-text"><strong>Rp. 200.000</strong></p>
-                            <a href="#" class="btn btn-primary">Buy Now</a>
+                            <a href="#" class="btn btn-primary">Beli</a>
                             <a href="#" class="btn btn-dark" style="margin-left: 5px;">
                             <i class="fas fa-shopping-cart"></i>
                             </a>
@@ -141,7 +141,7 @@
                             <h5 class="card-title">Sunscreen Azarine</h5>
                             <p class="card-text">Tersedia oily, dry, acne dan sensitif.</p>
                             <p class="card-text"><strong>Rp. 33.000</strong></p>
-                            <a href="#" class="btn btn-primary">Buy Now</a>
+                            <a href="#" class="btn btn-primary">Beli</a>
                             <a href="#" class="btn btn-dark" style="margin-left: 5px;">
                             <i class="fas fa-shopping-cart"></i>
                             </a>
@@ -156,7 +156,7 @@
                             <h5 class="card-title">Facial Wash Wardah</h5>
                             <p class="card-text">Tersedia oil, smooth dan cooling.</p>
                             <p class="card-text"><strong>Rp. 25.000</strong></p>
-                            <a href="#" class="btn btn-primary">Buy Now</a>
+                            <a href="#" class="btn btn-primary">Beli</a>
                             <a href="#" class="btn btn-dark" style="margin-left: 5px;">
                             <i class="fas fa-shopping-cart"></i>
                             </a>
@@ -171,7 +171,7 @@
                             <h5 class="card-title">Parfum Evangeline</h5>
                             <p class="card-text">Tersedia semua varian sakura</p>
                             <p class="card-text"><strong>Rp. 29.000</strong></p>
-                            <a href="#" class="btn btn-primary">Buy Now</a>
+                            <a href="#" class="btn btn-primary">Beli</a>
                             <a href="#" class="btn btn-dark" style="margin-left: 5px;">
                             <i class="fas fa-shopping-cart"></i>
                             </a>
@@ -186,7 +186,7 @@
                             <h5 class="card-title">Kacamata</h5>
                             <p class="card-text">Tersedia warna hitam, dan bening</p>
                             <p class="card-text"><strong>Rp. 30.000</strong></p>
-                            <a href="#" class="btn btn-primary">Buy Now</a>
+                            <a href="#" class="btn btn-primary">Beli</a>
                             <a href="#" class="btn btn-dark" style="margin-left: 5px;">
                             <i class="fas fa-shopping-cart"></i>
                             </a>
