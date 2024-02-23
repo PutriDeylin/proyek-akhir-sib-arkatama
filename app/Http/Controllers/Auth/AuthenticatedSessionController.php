@@ -19,7 +19,7 @@ class AuthenticatedSessionController extends Controller
     {
         return view('auth.login');
     }
-
+    
     /**
      * Handle an incoming authentication request.
      */
@@ -29,7 +29,17 @@ class AuthenticatedSessionController extends Controller
 
         $request->session()->regenerate();
 
-        return redirect()->intended(RouteServiceProvider::HOME);
+        // Mengambil instance user yang sedang login
+        $user = Auth::user();
+
+        // Memeriksa peran pengguna setelah berhasil login
+        if ($user->role === 'user') {
+            // Jika peran pengguna adalah 'user', redirect ke halaman profil
+            return redirect()->route('profile');
+        } elseif ($user->role === 'admin') {
+            // Jika peran pengguna adalah 'admin', redirect ke halaman dashboard admin
+            return redirect()->intended(RouteServiceProvider::HOME);
+        }
     }
 
     /**

@@ -39,7 +39,21 @@
         <!-- Sidebar Menu -->
         <nav class="mt-2">
             <ul class="nav nav-pills nav-sidebar flex-column" data-widget="treeview" role="menu" data-accordion="false">
+            @if (auth()->user()->role == 'user')
 
+            <li class="nav-item">
+                    <a href="{{ route('profile')}}" class="nav-link">
+                    <i class="nav-icon fa fa-shopping-bag"></i>
+                        <p>
+                            Shop
+                            <span class="badge badge-info right"></span>
+                        </p>
+                    </a>
+                </li>
+                
+            @endif
+
+            @if (auth()->user()->role == 'admin')
             <li class="nav-item">
                     <a href="{{ route('home')}}" class="nav-link">
                         <i class="nav-icon fas fa-home"></i>
@@ -59,8 +73,6 @@
                         </p>
                     </a>
                 </li>
-
-                @if (auth()->user()->role == 'admin')
 
                 <li class="nav-item">
                     <a href="{{ route('products')}}" class="nav-link">
